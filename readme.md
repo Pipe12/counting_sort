@@ -1,3 +1,3 @@
-#this a counting sort algorithm
+# this a counting sort algorithm
 
-##javaScript implementation
+## javaScript implementation
